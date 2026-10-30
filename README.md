@@ -16,8 +16,6 @@ B-dot detumbling with magnetorquers → TRIAD initialisation → Multiplicative 
 | Pointing, last orbit (truth vs LVLH) | p95 0.55 deg (0.32 deg sunlit) | `tests/test_closed_loop.py` |
 | Monte Carlo, 50 dispersed runs | see [Monte Carlo](#monte-carlo) | `scripts/monte_carlo.py` |
 
-## Why I built this
-
 <!-- TODO(Tommaso): dictate 3-4 lines in your own words -->
 
 ## Quick start
