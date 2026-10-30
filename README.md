@@ -28,7 +28,7 @@ These checks live in `tests/`:
 | Torque-free energy / inertial angular momentum, 1 orbit, RK4 @ 0.25 s | rel. drift 7.4e-9 / 2.3e-8 |
 | RK4 global order (step halving) | error ratio 15.98, 16.00 (theory: 16) |
 | Quaternion norm | \|q\|−1 ≤ 2.2e-16 |
-| B-dot from 8.8 deg/s | < 0.5 deg/s in 1.17 orbits |
+| B-dot from 8.8 deg/s | < 0.5 deg/s in 1.19 orbits |
 | MEKF consistency (8-run open-loop MC) | ≥ 98 % inside ±3σ, ANEES ≈ n = 6 |
 | Pointing, last orbit (truth vs LVLH) | p95 0.55 deg (0.32 deg sunlit) |
 
