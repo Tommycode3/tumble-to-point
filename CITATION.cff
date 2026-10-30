@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "tumble-to-point: a validated CubeSat ADCS simulator"
+authors:
+  - family-names: Maggiolo
+    given-names: Tommaso
+version: 0.1.0
+date-released: 2026-10-30
+license: MIT
+keywords: [cubesat, adcs, attitude control, MEKF, B-dot, reaction wheels]
+references:
+  - type: book
+    title: "Fundamentals of Spacecraft Attitude Determination and Control"
+    authors:
+      - family-names: Markley
+        given-names: F. Landis
+      - family-names: Crassidis
+        given-names: John L.
+    publisher:
+      name: Springer
+    year: 2014
+    doi: 10.1007/978-1-4939-0802-8

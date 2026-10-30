@@ -1,0 +1,19 @@
+{
+  "detumble_time_orbits": 1.188484430642053,
+  "point_err_mean_deg": 0.19413719670320384,
+  "point_err_p95_deg": 0.5494059587240616,
+  "point_err_max_deg": 0.6713068973715485,
+  "point_err_p95_sunlit_deg": 0.31575845219510945,
+  "est_err_rms_deg": 0.2459854662294279,
+  "h_w_max_mNms": 2.137103610743133,
+  "time_to_1deg_s": 77.0,
+  "mekf_3sigma_fraction": [
+    0.9837,
+    0.9975,
+    0.9851,
+    0.9972,
+    0.9991,
+    0.9895
+  ],
+  "mekf_mean_nees": 5.895220818990292
+}
